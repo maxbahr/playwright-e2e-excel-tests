@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Build output / coverage
+coverage
+dist
+build
+
+# Playwright artifacts
+playwright-report
+test-results
+
+# Misc
+*.log
+.DS_Store
